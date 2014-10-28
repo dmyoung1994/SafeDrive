@@ -2,6 +2,7 @@
 
 ## Prizes
 SafeDrive took home 2/15 total sponsor prizes at DubHacks:
+
 1. Best use of Zillow API
   * We used the Zillow API along with local crime data to determine the safety of an area and relay that back to the user
 2. Best use of Twilio APO
